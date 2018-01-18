@@ -1,0 +1,5 @@
+[oss]
+endpoint=http://oss-cn-shenzhen.aliyuncs.com
+accessId=LTAIOdFLawU3SDDo
+accessKey=OZbO7ey7LTayeRAxK1JRXvhySsCdhS
+bucket=image-yunchuang
