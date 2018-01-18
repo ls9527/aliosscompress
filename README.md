@@ -20,7 +20,8 @@ oss_dir=a/b/c
 
 ##演示
 
-![图片](https://github.com/ls9527/aliosscompress/tree/master/doc/show.gif)
+![image](https://github.com/ls9527/selectpoint/blob/master/doc/show.gif)
+
 
 
 ##联系我
