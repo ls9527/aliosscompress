@@ -20,7 +20,7 @@ oss_dir=a/b/c
 
 ##演示
 
-![image](https://github.com/ls9527/selectpoint/blob/master/doc/show.gif)
+![image](https://github.com/ls9527/aliosscompress/blob/master/doc/show.gif)
 
 
 
